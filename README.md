@@ -224,4 +224,4 @@ The Lord of the Rings Online is provided as a full free version, with all featur
 Don't wait! Download The Lord of the Rings Online now and embark on your epic adventure through Middle Earth!
 
 ---
-**Last updated:** 2026-09-24 17:45:32 UTC
+**Last updated:** 2026-09-24 20:53:35 UTC
